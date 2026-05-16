@@ -8,8 +8,8 @@
 // ─────────────────────────────────────────────────────────────────────────────
 
 // ── Config — paste your values here ──────────────────────────────────────────
-const DISCORD_TOKEN = 'your_bot_token_here';
-const CLIENT_ID     = 'your_client_id_here';
+const DISCORD_TOKEN = 'MTUwNTM0NjAwNTAyMzg1NDYwNg.Gd9Ska.fNf-W1LdZBtVJpvmDjzLqWol1X_G6cbLf5TNqE';
+const CLIENT_ID     = '1505346005023854606';
 // ─────────────────────────────────────────────────────────────────────────────
 
 const {
